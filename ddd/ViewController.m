@@ -17,6 +17,9 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     //test
+    
+    
+    //didi chegone hal shod git
 }
 
 - (void)didReceiveMemoryWarning {
